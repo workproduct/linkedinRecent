@@ -1,0 +1,12 @@
+{
+  "name": "LinkedIn Sort Order",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.linkedin.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
