@@ -19,3 +19,4 @@ Install:
   Select the zipped folder containing your manifest.json and content.js files.
 
   Your extension should now be loaded in Chrome and ready to use. Visit LinkedIn to test it out!
+ 
