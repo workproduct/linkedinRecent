@@ -1,10 +1,4 @@
-Author:
-  Yates Holley 
-  www.github.com/workproduct
-
-What:
-
-  Chrome extension that sets the timeline to recent instead of top
+Chrome extension that sets the timeline to recent instead of top
 
 Install:
 
